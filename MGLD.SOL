@@ -1,4 +1,4 @@
-# contract
+# contract 0x87ae87773345fa023e7d1556b1159af6b74cbb57
 Metallurgy Gold DEX NFT BUY/SELL GOLD PLATFORM
 
 /**
@@ -20,7 +20,7 @@ https://t.me/MetallurgyGold
 
 twitter.com/MetallurgyGold
 
-https://MettalurgyGold.com
+https://Metallurgy.Gold
 
 
 
